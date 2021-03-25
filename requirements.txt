@@ -12,7 +12,7 @@ pyparsing==2.3.1
 python-crfsuite==0.9.6
 python-dateutil==2.8.0
 pyuca==1.2
-PyYAML==5.1
+PyYAML==5.4
 regex==2019.3.12
 singledispatch==3.4.0.3
 six==1.12.0
